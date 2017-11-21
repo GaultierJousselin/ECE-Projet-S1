@@ -10,7 +10,7 @@ struct attaque
     int degat;
 };
 
-
+//Coucou
 class creature : public carte
 {
     public:
